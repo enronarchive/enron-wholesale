@@ -16,5 +16,6 @@
 
 ### Changed
 - **Source Directory**: Rearranged /src/ directory.
+- **Not avaliable page**: Changed to use archive page directly.
 
 ---
